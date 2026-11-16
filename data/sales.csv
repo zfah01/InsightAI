@@ -1,0 +1,1001 @@
+order_id,product,region,quantity,unit_price,revenue,order_date,customer_id,order_status
+1,Monitor,Northern Ireland,4,100,400,2025-10-28,182,Completed
+2,Keyboard,Northern Ireland,1,100,100,2025-12-05,120,Completed
+3,Headphones,Northern Ireland,3,500,1500,2025-09-24,75,Completed
+4,Keyboard,Northern Ireland,5,100,500,2025-06-30,21,Completed
+5,Keyboard,Northern Ireland,3,100,300,2025-12-26,172,Completed
+6,Phone,Scotland,3,250,750,2025-03-09,133,Completed
+7,Headphones,Northern Ireland,1,50,50,2025-12-17,87,Completed
+8,Headphones,Scotland,1,250,250,2025-11-17,169,Completed
+9,Headphones,Northern Ireland,1,250,250,2025-02-18,59,Completed
+10,Keyboard,Wales,2,25,50,2025-06-24,89,Completed
+11,Monitor,England,4,250,1000,2025-02-21,182,Completed
+12,Headphones,Scotland,2,500,1000,2025-04-12,150,Completed
+13,Keyboard,Northern Ireland,4,500,2000,2025-08-04,83,Completed
+14,Phone,Wales,4,25,100,2025-07-07,65,Completed
+15,Monitor,England,3,1000,3000,2025-02-26,64,Completed
+16,Phone,Scotland,3,50,150,2025-02-16,71,Cancelled
+17,Monitor,England,4,50,200,2025-06-08,4,Completed
+18,Keyboard,Wales,4,250,1000,2025-06-23,193,Cancelled
+19,Laptop,Scotland,2,250,500,2025-08-30,143,Returned
+20,Monitor,England,2,1000,2000,2025-10-09,104,Completed
+21,Phone,Northern Ireland,3,250,750,2025-08-29,150,Completed
+22,Keyboard,Scotland,1,50,50,2025-01-05,175,Returned
+23,Monitor,England,4,100,400,2025-03-25,93,Completed
+24,Laptop,Wales,2,500,1000,2025-11-04,174,Completed
+25,Laptop,Wales,3,100,300,2025-12-27,142,Completed
+26,Headphones,Scotland,2,100,200,2025-09-05,178,Completed
+27,Headphones,England,4,50,200,2025-02-23,148,Completed
+28,Phone,Scotland,4,100,400,2025-06-10,178,Completed
+29,Monitor,Scotland,5,1000,5000,2025-08-14,112,Completed
+30,Monitor,England,1,25,25,2025-01-15,161,Completed
+31,Headphones,England,5,250,1250,2025-08-12,119,Cancelled
+32,Monitor,Northern Ireland,3,25,75,2025-03-02,59,Completed
+33,Monitor,England,2,500,1000,2025-05-02,43,Completed
+34,Laptop,Wales,3,250,750,2025-10-04,12,Completed
+35,Headphones,Scotland,4,100,400,2025-02-15,40,Completed
+36,Keyboard,Scotland,5,500,2500,2025-10-21,118,Completed
+37,Headphones,Wales,5,250,1250,2025-03-03,20,Cancelled
+38,Keyboard,England,5,1000,5000,2025-03-27,166,Completed
+39,Laptop,Wales,3,1000,3000,2025-07-29,131,Completed
+40,Phone,Wales,4,1000,4000,2025-03-19,156,Completed
+41,Monitor,Northern Ireland,2,1000,2000,2025-07-21,184,Completed
+42,Laptop,Wales,2,100,200,2025-10-29,90,Cancelled
+43,Monitor,Scotland,3,25,75,2025-08-11,94,Completed
+44,Phone,Wales,5,250,1250,2025-08-10,13,Completed
+45,Phone,Scotland,1,100,100,2025-01-03,66,Completed
+46,Laptop,Scotland,3,1000,3000,2025-01-06,37,Cancelled
+47,Phone,Scotland,3,25,75,2025-04-03,177,Completed
+48,Keyboard,England,4,500,2000,2025-01-08,66,Completed
+49,Phone,Northern Ireland,2,500,1000,2025-08-23,36,Completed
+50,Monitor,Scotland,3,500,1500,2025-04-18,182,Cancelled
+51,Monitor,Scotland,3,1000,3000,2025-06-10,26,Completed
+52,Monitor,England,5,500,2500,2025-07-28,75,Completed
+53,Monitor,Scotland,5,50,250,2025-08-28,200,Completed
+54,Keyboard,Wales,1,250,250,2025-11-27,108,Completed
+55,Headphones,Wales,4,250,1000,2025-11-29,168,Completed
+56,Laptop,Northern Ireland,1,1000,1000,2025-02-19,43,Completed
+57,Monitor,Scotland,5,50,250,2025-01-11,150,Cancelled
+58,Phone,England,2,100,200,2025-12-17,148,Completed
+59,Monitor,Wales,5,100,500,2025-06-05,8,Cancelled
+60,Phone,England,4,500,2000,2025-03-11,29,Completed
+61,Phone,England,5,25,125,2025-06-18,40,Completed
+62,Monitor,Wales,4,100,400,2025-09-29,158,Completed
+63,Keyboard,England,4,25,100,2025-03-09,128,Completed
+64,Phone,Wales,4,250,1000,2025-12-21,84,Returned
+65,Phone,England,4,25,100,2025-09-09,116,Completed
+66,Monitor,Wales,4,250,1000,2025-02-17,183,Completed
+67,Phone,Scotland,2,50,100,2025-07-03,144,Completed
+68,Phone,Northern Ireland,1,50,50,2025-11-16,174,Completed
+69,Monitor,Wales,3,1000,3000,2025-07-06,62,Completed
+70,Monitor,Wales,1,1000,1000,2025-03-31,7,Completed
+71,Laptop,Northern Ireland,4,500,2000,2025-11-28,45,Returned
+72,Keyboard,Wales,2,100,200,2025-05-19,187,Completed
+73,Keyboard,Wales,5,500,2500,2025-12-23,184,Completed
+74,Phone,England,2,250,500,2025-03-30,176,Completed
+75,Keyboard,Northern Ireland,4,500,2000,2025-10-01,155,Cancelled
+76,Phone,Scotland,2,25,50,2025-01-19,181,Completed
+77,Laptop,Wales,2,250,500,2025-11-07,88,Completed
+78,Monitor,Northern Ireland,4,1000,4000,2025-12-24,73,Completed
+79,Monitor,England,2,50,100,2025-06-03,163,Completed
+80,Monitor,Scotland,3,1000,3000,2025-09-17,179,Completed
+81,Keyboard,Northern Ireland,3,100,300,2025-04-18,37,Cancelled
+82,Laptop,Scotland,2,250,500,2025-10-12,119,Completed
+83,Keyboard,Scotland,5,250,1250,2025-02-28,57,Completed
+84,Keyboard,Scotland,4,25,100,2025-05-05,8,Completed
+85,Laptop,Wales,3,100,300,2025-12-20,95,Completed
+86,Laptop,Wales,5,50,250,2025-09-30,117,Completed
+87,Laptop,England,2,250,500,2025-04-17,110,Completed
+88,Laptop,England,5,250,1250,2025-10-26,20,Completed
+89,Monitor,Northern Ireland,1,25,25,2025-09-02,124,Completed
+90,Headphones,England,3,500,1500,2025-12-02,53,Completed
+91,Headphones,Scotland,2,50,100,2025-09-04,119,Completed
+92,Laptop,Scotland,4,1000,4000,2025-01-08,12,Returned
+93,Headphones,Wales,2,100,200,2025-05-21,177,Completed
+94,Headphones,Scotland,4,250,1000,2025-12-28,17,Completed
+95,Laptop,Northern Ireland,2,250,500,2025-01-08,64,Completed
+96,Headphones,Scotland,5,1000,5000,2025-12-18,42,Completed
+97,Keyboard,Scotland,5,50,250,2025-04-04,94,Completed
+98,Phone,Northern Ireland,5,500,2500,2025-11-17,157,Completed
+99,Phone,England,1,250,250,2025-02-08,147,Completed
+100,Laptop,England,4,50,200,2025-03-22,11,Completed
+101,Monitor,Northern Ireland,5,1000,5000,2025-07-06,98,Completed
+102,Laptop,Wales,1,25,25,2025-03-25,178,Completed
+103,Monitor,Scotland,4,500,2000,2025-03-29,71,Completed
+104,Phone,Northern Ireland,2,100,200,2025-08-30,108,Completed
+105,Laptop,Scotland,1,250,250,2025-12-08,58,Completed
+106,Keyboard,Wales,3,50,150,2025-04-03,34,Completed
+107,Headphones,Scotland,1,25,25,2025-03-27,20,Completed
+108,Monitor,Northern Ireland,1,100,100,2025-02-13,50,Completed
+109,Headphones,Scotland,4,50,200,2025-05-17,102,Completed
+110,Headphones,England,2,50,100,2025-03-15,138,Returned
+111,Laptop,Wales,3,100,300,2025-02-05,160,Completed
+112,Headphones,Wales,5,25,125,2025-04-11,52,Completed
+113,Keyboard,Wales,5,1000,5000,2025-06-05,15,Completed
+114,Headphones,Northern Ireland,1,25,25,2025-09-12,84,Completed
+115,Laptop,Wales,4,500,2000,2025-06-20,131,Cancelled
+116,Keyboard,England,4,250,1000,2025-08-04,37,Completed
+117,Phone,Northern Ireland,5,100,500,2025-06-19,126,Completed
+118,Headphones,England,3,1000,3000,2025-09-09,40,Completed
+119,Laptop,Scotland,2,100,200,2025-12-26,72,Completed
+120,Phone,Scotland,3,100,300,2025-11-18,40,Completed
+121,Phone,Scotland,2,25,50,2025-02-24,56,Completed
+122,Monitor,Scotland,5,250,1250,2025-04-01,151,Returned
+123,Keyboard,England,2,500,1000,2025-10-05,104,Completed
+124,Headphones,Northern Ireland,4,50,200,2025-04-11,139,Completed
+125,Laptop,Northern Ireland,1,50,50,2025-06-04,110,Cancelled
+126,Monitor,Wales,1,100,100,2025-12-15,192,Completed
+127,Keyboard,England,5,250,1250,2025-12-30,136,Cancelled
+128,Monitor,Scotland,4,1000,4000,2025-05-21,93,Returned
+129,Keyboard,England,3,25,75,2025-06-22,94,Completed
+130,Keyboard,Wales,4,250,1000,2025-01-10,56,Completed
+131,Headphones,Wales,1,250,250,2025-08-16,60,Completed
+132,Keyboard,England,1,25,25,2025-09-22,138,Cancelled
+133,Monitor,England,4,100,400,2025-09-05,39,Completed
+134,Keyboard,England,4,250,1000,2025-09-04,28,Completed
+135,Headphones,Northern Ireland,1,50,50,2025-06-04,49,Cancelled
+136,Headphones,Scotland,3,25,75,2025-02-03,164,Returned
+137,Monitor,England,5,1000,5000,2025-05-09,125,Completed
+138,Phone,England,5,500,2500,2025-06-09,13,Completed
+139,Phone,England,4,100,400,2025-03-30,36,Returned
+140,Keyboard,Wales,5,25,125,2025-04-03,101,Completed
+141,Laptop,Wales,1,500,500,2025-11-23,26,Cancelled
+142,Keyboard,Northern Ireland,1,500,500,2025-08-29,86,Completed
+143,Monitor,Scotland,4,1000,4000,2025-11-19,4,Completed
+144,Monitor,Northern Ireland,4,250,1000,2025-04-27,82,Completed
+145,Monitor,Scotland,4,1000,4000,2025-04-04,192,Completed
+146,Monitor,Wales,3,250,750,2025-06-12,166,Completed
+147,Monitor,Wales,5,250,1250,2025-04-09,127,Completed
+148,Headphones,Wales,4,25,100,2025-04-23,88,Completed
+149,Phone,Northern Ireland,2,25,50,2025-12-25,127,Completed
+150,Monitor,England,2,100,200,2025-04-01,120,Completed
+151,Laptop,England,1,250,250,2025-12-12,22,Completed
+152,Laptop,Wales,5,500,2500,2025-07-25,130,Completed
+153,Laptop,England,4,50,200,2025-01-17,31,Completed
+154,Laptop,England,2,100,200,2025-10-01,119,Completed
+155,Headphones,Northern Ireland,5,25,125,2025-06-22,11,Completed
+156,Laptop,Scotland,1,1000,1000,2025-04-26,46,Completed
+157,Monitor,Wales,3,100,300,2025-12-15,96,Completed
+158,Keyboard,Wales,5,100,500,2025-06-30,190,Cancelled
+159,Laptop,Northern Ireland,5,100,500,2025-04-01,197,Cancelled
+160,Headphones,Northern Ireland,3,100,300,2025-03-23,192,Completed
+161,Headphones,England,5,50,250,2025-11-20,10,Returned
+162,Laptop,Wales,1,1000,1000,2025-04-24,168,Completed
+163,Keyboard,Scotland,1,1000,1000,2025-09-14,128,Completed
+164,Laptop,Northern Ireland,3,1000,3000,2025-02-27,152,Completed
+165,Headphones,Scotland,4,250,1000,2025-06-03,99,Completed
+166,Phone,Scotland,2,500,1000,2025-12-31,172,Completed
+167,Monitor,Wales,4,1000,4000,2025-04-26,112,Completed
+168,Headphones,Wales,5,100,500,2025-12-09,60,Completed
+169,Laptop,Northern Ireland,2,100,200,2025-09-23,190,Completed
+170,Monitor,Wales,3,1000,3000,2025-11-11,87,Completed
+171,Laptop,Wales,3,1000,3000,2025-07-22,145,Completed
+172,Laptop,Wales,2,100,200,2025-02-10,65,Completed
+173,Phone,Scotland,1,250,250,2025-04-15,57,Completed
+174,Monitor,Northern Ireland,2,25,50,2025-07-12,183,Completed
+175,Monitor,England,5,25,125,2025-10-05,106,Completed
+176,Phone,Scotland,1,1000,1000,2025-12-20,181,Cancelled
+177,Headphones,Wales,3,50,150,2025-08-25,184,Completed
+178,Laptop,Scotland,2,1000,2000,2025-08-09,9,Completed
+179,Keyboard,Wales,4,1000,4000,2025-03-09,22,Completed
+180,Laptop,Wales,4,25,100,2025-07-16,141,Completed
+181,Laptop,Scotland,5,100,500,2025-09-13,89,Completed
+182,Headphones,Northern Ireland,4,1000,4000,2025-05-19,176,Completed
+183,Laptop,Wales,2,100,200,2025-11-08,18,Completed
+184,Phone,Northern Ireland,2,100,200,2025-05-29,115,Completed
+185,Phone,England,4,50,200,2025-04-09,168,Completed
+186,Monitor,Wales,2,100,200,2025-03-17,145,Completed
+187,Keyboard,Northern Ireland,5,25,125,2025-10-09,143,Completed
+188,Laptop,Northern Ireland,1,250,250,2025-04-19,106,Completed
+189,Laptop,England,5,250,1250,2025-07-07,15,Completed
+190,Headphones,Northern Ireland,5,500,2500,2025-07-18,63,Completed
+191,Phone,Northern Ireland,2,1000,2000,2025-10-30,167,Completed
+192,Keyboard,England,1,25,25,2025-11-23,13,Completed
+193,Monitor,Wales,2,100,200,2025-06-03,81,Completed
+194,Phone,Northern Ireland,3,250,750,2025-02-09,32,Completed
+195,Monitor,Northern Ireland,2,25,50,2025-05-13,137,Cancelled
+196,Headphones,Northern Ireland,2,250,500,2025-05-12,40,Completed
+197,Headphones,Scotland,2,100,200,2025-10-06,148,Cancelled
+198,Laptop,England,1,250,250,2025-12-28,82,Completed
+199,Keyboard,Scotland,2,1000,2000,2025-03-25,77,Completed
+200,Monitor,England,1,1000,1000,2025-08-30,191,Completed
+201,Phone,Wales,4,500,2000,2025-04-26,76,Completed
+202,Headphones,Wales,3,500,1500,2025-04-19,172,Completed
+203,Laptop,Northern Ireland,1,250,250,2025-08-09,38,Completed
+204,Laptop,England,4,25,100,2025-02-10,188,Completed
+205,Monitor,Wales,1,1000,1000,2025-05-27,71,Completed
+206,Headphones,England,1,25,25,2025-04-22,48,Completed
+207,Keyboard,Wales,3,25,75,2025-04-13,18,Cancelled
+208,Headphones,Scotland,5,250,1250,2025-02-15,144,Completed
+209,Monitor,Wales,5,25,125,2025-11-20,183,Completed
+210,Monitor,Scotland,1,1000,1000,2025-09-28,39,Completed
+211,Headphones,Wales,2,100,200,2025-07-14,196,Completed
+212,Monitor,Northern Ireland,4,500,2000,2025-10-07,187,Completed
+213,Headphones,Scotland,2,100,200,2025-10-10,89,Returned
+214,Phone,Wales,2,25,50,2025-02-09,62,Completed
+215,Headphones,Northern Ireland,1,100,100,2025-07-08,141,Completed
+216,Headphones,Scotland,1,1000,1000,2025-06-13,109,Completed
+217,Monitor,Northern Ireland,1,1000,1000,2025-01-24,81,Completed
+218,Monitor,England,1,25,25,2025-01-24,134,Completed
+219,Laptop,England,5,250,1250,2025-01-04,77,Completed
+220,Laptop,Scotland,1,100,100,2025-11-19,188,Returned
+221,Phone,Wales,5,250,1250,2025-10-17,90,Completed
+222,Laptop,Scotland,5,250,1250,2025-06-30,14,Cancelled
+223,Headphones,Northern Ireland,1,50,50,2025-09-05,95,Completed
+224,Monitor,Wales,3,25,75,2025-04-26,54,Completed
+225,Laptop,England,4,500,2000,2025-10-06,132,Completed
+226,Laptop,Wales,2,1000,2000,2025-12-31,39,Completed
+227,Phone,England,5,1000,5000,2025-03-10,72,Cancelled
+228,Phone,Wales,4,25,100,2025-12-17,25,Completed
+229,Headphones,Wales,3,500,1500,2025-09-11,77,Completed
+230,Monitor,Wales,2,1000,2000,2025-06-30,160,Completed
+231,Phone,Northern Ireland,2,25,50,2025-11-14,187,Completed
+232,Laptop,Northern Ireland,5,1000,5000,2025-06-18,191,Completed
+233,Monitor,Scotland,1,250,250,2025-11-09,166,Completed
+234,Monitor,Scotland,3,100,300,2025-09-06,120,Completed
+235,Laptop,England,5,100,500,2025-07-07,53,Completed
+236,Phone,Northern Ireland,3,1000,3000,2025-02-23,195,Completed
+237,Laptop,England,1,50,50,2025-11-22,156,Completed
+238,Monitor,Scotland,1,500,500,2025-12-23,131,Completed
+239,Keyboard,England,5,500,2500,2025-11-09,150,Cancelled
+240,Keyboard,Scotland,1,500,500,2025-05-18,96,Completed
+241,Headphones,Northern Ireland,4,250,1000,2025-06-17,166,Completed
+242,Laptop,Wales,2,500,1000,2025-04-13,200,Completed
+243,Laptop,Northern Ireland,5,100,500,2025-03-26,72,Completed
+244,Headphones,England,3,250,750,2025-11-13,62,Completed
+245,Headphones,England,4,25,100,2025-07-31,185,Completed
+246,Headphones,Northern Ireland,5,500,2500,2025-01-03,6,Completed
+247,Monitor,Northern Ireland,1,500,500,2025-06-28,32,Completed
+248,Laptop,Scotland,1,25,25,2025-12-08,99,Cancelled
+249,Monitor,England,1,500,500,2025-10-30,138,Completed
+250,Headphones,England,1,25,25,2025-11-28,131,Completed
+251,Laptop,Northern Ireland,3,250,750,2025-02-07,187,Completed
+252,Monitor,Wales,4,100,400,2025-08-27,76,Completed
+253,Monitor,England,2,25,50,2025-06-18,177,Cancelled
+254,Headphones,Wales,3,50,150,2025-12-09,59,Completed
+255,Laptop,Northern Ireland,3,25,75,2025-11-10,31,Completed
+256,Headphones,Northern Ireland,2,500,1000,2025-11-02,93,Completed
+257,Laptop,Scotland,2,250,500,2025-01-30,69,Completed
+258,Keyboard,England,1,1000,1000,2025-07-09,190,Completed
+259,Phone,Wales,3,250,750,2025-12-23,52,Completed
+260,Phone,Scotland,5,1000,5000,2025-01-25,89,Completed
+261,Phone,England,2,25,50,2025-04-22,127,Completed
+262,Headphones,Scotland,2,100,200,2025-07-25,169,Completed
+263,Keyboard,Northern Ireland,4,50,200,2025-07-04,31,Completed
+264,Laptop,England,5,250,1250,2025-02-16,84,Completed
+265,Monitor,Scotland,5,500,2500,2025-08-16,127,Completed
+266,Laptop,Scotland,2,1000,2000,2025-02-08,150,Completed
+267,Monitor,Wales,1,500,500,2025-01-16,132,Completed
+268,Laptop,Scotland,4,100,400,2025-01-22,13,Completed
+269,Keyboard,England,5,1000,5000,2025-08-01,45,Completed
+270,Monitor,England,2,250,500,2025-11-06,127,Completed
+271,Headphones,Wales,5,25,125,2025-05-29,170,Completed
+272,Laptop,England,4,500,2000,2025-08-29,114,Completed
+273,Laptop,Northern Ireland,4,100,400,2025-09-29,177,Cancelled
+274,Monitor,England,3,250,750,2025-02-28,20,Returned
+275,Headphones,England,2,250,500,2025-10-14,81,Cancelled
+276,Headphones,Scotland,4,250,1000,2025-07-21,182,Completed
+277,Keyboard,Scotland,3,250,750,2025-02-01,164,Completed
+278,Headphones,England,3,1000,3000,2025-06-11,129,Completed
+279,Headphones,Wales,5,250,1250,2025-09-12,143,Completed
+280,Headphones,Scotland,5,500,2500,2025-09-11,17,Completed
+281,Phone,Wales,3,100,300,2025-01-09,152,Completed
+282,Keyboard,England,5,1000,5000,2025-05-19,58,Completed
+283,Laptop,England,4,250,1000,2025-01-10,72,Returned
+284,Monitor,Northern Ireland,1,50,50,2025-08-02,109,Completed
+285,Laptop,Scotland,4,50,200,2025-09-30,23,Completed
+286,Keyboard,England,3,100,300,2025-11-20,174,Completed
+287,Monitor,Northern Ireland,3,25,75,2025-02-17,72,Cancelled
+288,Keyboard,Scotland,4,25,100,2025-04-21,8,Completed
+289,Headphones,England,5,1000,5000,2025-06-02,59,Completed
+290,Monitor,England,5,1000,5000,2025-05-03,111,Cancelled
+291,Headphones,Scotland,3,1000,3000,2025-12-23,187,Completed
+292,Laptop,Scotland,2,25,50,2025-04-12,13,Completed
+293,Laptop,Scotland,5,50,250,2025-08-29,167,Completed
+294,Monitor,England,4,25,100,2025-11-17,156,Completed
+295,Monitor,England,5,500,2500,2025-07-10,189,Completed
+296,Keyboard,Northern Ireland,4,250,1000,2025-08-05,16,Completed
+297,Keyboard,Wales,3,1000,3000,2025-02-20,119,Cancelled
+298,Headphones,Scotland,5,50,250,2025-10-19,2,Returned
+299,Monitor,England,4,100,400,2025-03-22,145,Completed
+300,Laptop,England,3,100,300,2025-03-29,30,Completed
+301,Keyboard,Scotland,2,250,500,2025-07-13,103,Completed
+302,Keyboard,Wales,4,50,200,2025-04-14,13,Completed
+303,Laptop,Scotland,2,25,50,2025-09-28,96,Completed
+304,Keyboard,Wales,2,25,50,2025-04-06,94,Completed
+305,Headphones,England,1,500,500,2025-07-17,82,Completed
+306,Monitor,Wales,5,500,2500,2025-01-01,13,Completed
+307,Laptop,Northern Ireland,4,25,100,2025-06-16,171,Cancelled
+308,Monitor,England,2,100,200,2025-05-06,94,Completed
+309,Keyboard,Northern Ireland,1,1000,1000,2025-11-09,149,Completed
+310,Keyboard,Scotland,3,100,300,2025-03-22,112,Completed
+311,Laptop,Scotland,4,500,2000,2025-09-08,55,Completed
+312,Headphones,Scotland,2,250,500,2025-06-18,81,Completed
+313,Phone,Wales,5,25,125,2025-03-14,168,Completed
+314,Laptop,England,1,500,500,2025-05-21,116,Completed
+315,Phone,Scotland,2,500,1000,2025-03-11,143,Completed
+316,Phone,Scotland,5,1000,5000,2025-09-19,180,Completed
+317,Headphones,England,2,25,50,2025-12-06,108,Completed
+318,Phone,Scotland,4,1000,4000,2025-11-04,53,Completed
+319,Phone,Northern Ireland,4,25,100,2025-09-02,128,Returned
+320,Headphones,England,4,1000,4000,2025-01-03,180,Completed
+321,Phone,England,1,100,100,2025-12-03,158,Returned
+322,Phone,England,4,250,1000,2025-03-04,161,Completed
+323,Phone,Northern Ireland,5,250,1250,2025-02-18,57,Returned
+324,Laptop,England,2,25,50,2025-03-17,52,Completed
+325,Laptop,Northern Ireland,3,50,150,2025-06-24,137,Completed
+326,Laptop,England,5,500,2500,2025-04-19,182,Completed
+327,Headphones,Wales,5,500,2500,2025-07-02,111,Completed
+328,Keyboard,Scotland,4,25,100,2025-07-11,1,Completed
+329,Phone,Wales,1,1000,1000,2025-03-06,44,Completed
+330,Phone,Scotland,2,50,100,2025-12-03,75,Completed
+331,Headphones,Northern Ireland,1,100,100,2025-09-28,98,Completed
+332,Phone,Wales,2,1000,2000,2025-04-10,9,Completed
+333,Laptop,England,2,1000,2000,2025-02-01,32,Completed
+334,Keyboard,Scotland,1,25,25,2025-12-18,15,Completed
+335,Monitor,Scotland,5,25,125,2025-05-08,140,Completed
+336,Phone,Wales,2,500,1000,2025-12-05,185,Completed
+337,Laptop,Northern Ireland,1,25,25,2025-02-12,136,Completed
+338,Monitor,Wales,2,25,50,2025-03-19,72,Completed
+339,Keyboard,Northern Ireland,3,25,75,2025-11-10,155,Completed
+340,Monitor,Northern Ireland,5,500,2500,2025-10-16,190,Returned
+341,Laptop,Scotland,4,100,400,2025-09-27,12,Completed
+342,Monitor,Wales,2,100,200,2025-06-11,65,Completed
+343,Headphones,Wales,3,25,75,2025-07-08,107,Completed
+344,Monitor,Northern Ireland,4,500,2000,2025-09-04,42,Completed
+345,Phone,Wales,4,100,400,2025-08-04,190,Completed
+346,Phone,England,2,1000,2000,2025-11-11,115,Completed
+347,Headphones,England,1,100,100,2025-12-05,139,Completed
+348,Laptop,Wales,2,100,200,2025-06-17,103,Completed
+349,Phone,Wales,3,500,1500,2025-12-05,171,Completed
+350,Keyboard,Northern Ireland,4,1000,4000,2025-07-12,95,Completed
+351,Phone,England,2,500,1000,2025-10-10,17,Completed
+352,Phone,England,1,25,25,2025-12-02,160,Completed
+353,Laptop,Scotland,2,250,500,2025-01-13,85,Completed
+354,Monitor,Northern Ireland,5,100,500,2025-08-28,168,Completed
+355,Phone,Scotland,1,250,250,2025-11-16,151,Returned
+356,Headphones,England,3,500,1500,2025-05-27,56,Cancelled
+357,Monitor,Northern Ireland,4,500,2000,2025-07-23,134,Completed
+358,Keyboard,Wales,2,500,1000,2025-03-21,86,Completed
+359,Laptop,Northern Ireland,1,250,250,2025-02-12,178,Completed
+360,Keyboard,Wales,5,500,2500,2025-03-30,102,Completed
+361,Monitor,Wales,1,25,25,2025-05-28,165,Completed
+362,Monitor,Northern Ireland,5,500,2500,2025-04-05,192,Completed
+363,Monitor,Wales,3,50,150,2025-05-31,54,Completed
+364,Keyboard,Scotland,4,250,1000,2025-01-02,200,Completed
+365,Monitor,England,3,50,150,2025-01-22,177,Returned
+366,Keyboard,Wales,2,500,1000,2025-11-09,115,Completed
+367,Monitor,Scotland,1,25,25,2025-11-24,139,Completed
+368,Headphones,Wales,5,100,500,2025-01-07,88,Completed
+369,Monitor,England,5,1000,5000,2025-07-25,49,Completed
+370,Keyboard,Scotland,1,1000,1000,2025-04-24,149,Completed
+371,Phone,England,1,500,500,2025-09-29,115,Completed
+372,Monitor,England,2,25,50,2025-03-24,194,Completed
+373,Phone,Scotland,3,250,750,2025-06-28,63,Completed
+374,Headphones,Scotland,5,50,250,2025-07-29,104,Completed
+375,Laptop,Scotland,2,50,100,2025-11-24,83,Completed
+376,Headphones,Northern Ireland,3,50,150,2025-05-04,103,Completed
+377,Monitor,Scotland,2,250,500,2025-04-23,156,Cancelled
+378,Phone,Scotland,5,1000,5000,2025-01-12,17,Completed
+379,Phone,Scotland,1,25,25,2025-05-06,6,Completed
+380,Keyboard,Scotland,1,250,250,2025-02-22,147,Completed
+381,Phone,Wales,3,50,150,2025-11-27,184,Completed
+382,Keyboard,Northern Ireland,4,500,2000,2025-10-10,28,Completed
+383,Laptop,England,3,100,300,2025-05-20,194,Completed
+384,Monitor,Scotland,4,250,1000,2025-04-07,38,Completed
+385,Keyboard,Wales,2,250,500,2025-01-05,119,Completed
+386,Laptop,Wales,2,25,50,2025-02-26,37,Completed
+387,Phone,Wales,5,25,125,2025-11-30,115,Completed
+388,Phone,England,4,250,1000,2025-03-10,68,Completed
+389,Laptop,Scotland,5,50,250,2025-04-28,177,Completed
+390,Phone,Northern Ireland,1,100,100,2025-02-28,43,Completed
+391,Laptop,Northern Ireland,4,25,100,2025-02-02,164,Completed
+392,Keyboard,Wales,3,50,150,2025-11-14,58,Completed
+393,Keyboard,England,1,500,500,2025-02-19,13,Completed
+394,Laptop,England,1,25,25,2025-01-19,52,Completed
+395,Keyboard,England,3,50,150,2025-08-02,58,Completed
+396,Keyboard,Northern Ireland,1,50,50,2025-07-16,32,Completed
+397,Keyboard,Wales,4,100,400,2025-02-16,105,Completed
+398,Headphones,Scotland,5,100,500,2025-06-16,188,Cancelled
+399,Monitor,Northern Ireland,1,500,500,2025-10-16,83,Completed
+400,Phone,Wales,4,50,200,2025-05-21,186,Completed
+401,Headphones,Wales,2,1000,2000,2025-03-25,99,Completed
+402,Keyboard,Scotland,4,50,200,2025-07-01,104,Completed
+403,Laptop,Scotland,5,100,500,2025-03-20,184,Completed
+404,Keyboard,Scotland,4,1000,4000,2025-08-03,28,Cancelled
+405,Monitor,England,3,25,75,2025-01-14,129,Completed
+406,Keyboard,Scotland,5,25,125,2025-08-03,170,Completed
+407,Laptop,Wales,2,250,500,2025-05-08,48,Completed
+408,Monitor,Scotland,3,100,300,2025-11-06,40,Completed
+409,Keyboard,Wales,4,250,1000,2025-09-05,97,Completed
+410,Monitor,Northern Ireland,5,1000,5000,2025-01-29,191,Completed
+411,Phone,England,2,100,200,2025-10-07,200,Completed
+412,Phone,Northern Ireland,3,500,1500,2025-12-04,114,Completed
+413,Keyboard,Northern Ireland,2,50,100,2025-11-15,132,Completed
+414,Monitor,Wales,4,500,2000,2025-07-21,166,Completed
+415,Laptop,Northern Ireland,2,1000,2000,2025-12-27,155,Completed
+416,Keyboard,Wales,1,100,100,2025-02-26,137,Completed
+417,Phone,Scotland,3,1000,3000,2025-08-06,111,Completed
+418,Phone,Scotland,2,50,100,2025-03-03,144,Completed
+419,Keyboard,Wales,4,25,100,2025-06-06,184,Completed
+420,Monitor,Scotland,4,25,100,2025-07-21,76,Completed
+421,Phone,England,2,1000,2000,2025-01-17,31,Completed
+422,Monitor,Northern Ireland,4,250,1000,2025-11-18,119,Completed
+423,Phone,England,5,100,500,2025-01-06,142,Completed
+424,Phone,Northern Ireland,5,100,500,2025-02-27,25,Completed
+425,Headphones,Scotland,5,25,125,2025-11-21,34,Completed
+426,Phone,England,1,500,500,2025-11-14,67,Completed
+427,Laptop,Scotland,2,50,100,2025-06-18,152,Completed
+428,Keyboard,Northern Ireland,1,500,500,2025-03-23,118,Completed
+429,Keyboard,Wales,4,500,2000,2025-08-07,73,Completed
+430,Monitor,Wales,1,1000,1000,2025-06-26,26,Completed
+431,Phone,England,4,25,100,2025-07-23,148,Completed
+432,Laptop,Scotland,4,25,100,2025-03-12,192,Completed
+433,Monitor,Scotland,3,25,75,2025-09-23,104,Completed
+434,Headphones,England,5,1000,5000,2025-04-08,10,Completed
+435,Monitor,Wales,4,250,1000,2025-12-11,67,Completed
+436,Monitor,Northern Ireland,3,500,1500,2025-10-18,152,Completed
+437,Phone,England,5,1000,5000,2025-07-27,5,Completed
+438,Headphones,Northern Ireland,4,100,400,2025-01-02,195,Completed
+439,Monitor,Wales,4,50,200,2025-05-04,186,Completed
+440,Laptop,Scotland,1,250,250,2025-10-07,27,Completed
+441,Laptop,Wales,1,100,100,2025-03-15,113,Completed
+442,Keyboard,England,5,500,2500,2025-06-15,15,Completed
+443,Headphones,Scotland,4,25,100,2025-01-22,163,Completed
+444,Headphones,England,2,500,1000,2025-06-03,105,Completed
+445,Keyboard,England,1,1000,1000,2025-10-22,181,Completed
+446,Monitor,Wales,5,50,250,2025-08-07,44,Completed
+447,Headphones,England,4,1000,4000,2025-06-06,26,Cancelled
+448,Laptop,Wales,4,250,1000,2025-08-18,175,Completed
+449,Laptop,Scotland,2,250,500,2025-01-20,162,Completed
+450,Phone,Wales,5,50,250,2025-02-10,95,Completed
+451,Headphones,Scotland,4,100,400,2025-05-28,178,Completed
+452,Monitor,Wales,1,100,100,2025-04-18,84,Completed
+453,Keyboard,Northern Ireland,2,250,500,2025-03-25,140,Completed
+454,Keyboard,Northern Ireland,5,250,1250,2025-11-18,132,Completed
+455,Monitor,England,2,25,50,2025-11-05,87,Completed
+456,Phone,Wales,1,100,100,2025-10-17,176,Cancelled
+457,Keyboard,Wales,5,50,250,2025-11-19,183,Completed
+458,Headphones,Scotland,2,100,200,2025-05-14,112,Completed
+459,Phone,England,3,25,75,2025-07-26,129,Completed
+460,Headphones,Wales,1,1000,1000,2025-10-10,89,Completed
+461,Laptop,England,1,250,250,2025-09-23,66,Completed
+462,Phone,Northern Ireland,1,250,250,2025-03-14,158,Completed
+463,Keyboard,Wales,3,25,75,2025-12-18,131,Completed
+464,Phone,Wales,3,50,150,2025-02-17,122,Completed
+465,Phone,England,4,250,1000,2025-11-22,149,Completed
+466,Phone,Wales,2,500,1000,2025-08-21,84,Completed
+467,Phone,England,4,250,1000,2025-04-10,177,Cancelled
+468,Headphones,Wales,2,500,1000,2025-02-28,116,Completed
+469,Laptop,Scotland,3,25,75,2025-09-15,190,Completed
+470,Monitor,England,3,25,75,2025-03-06,116,Completed
+471,Phone,Wales,4,250,1000,2025-03-24,38,Completed
+472,Keyboard,Northern Ireland,5,100,500,2025-06-03,143,Cancelled
+473,Phone,Wales,4,500,2000,2025-09-23,110,Completed
+474,Keyboard,Northern Ireland,2,50,100,2025-11-05,180,Completed
+475,Headphones,Northern Ireland,4,250,1000,2025-03-20,46,Completed
+476,Keyboard,Scotland,1,50,50,2025-11-11,25,Cancelled
+477,Monitor,England,2,250,500,2025-05-30,21,Completed
+478,Laptop,Wales,2,100,200,2025-02-17,121,Completed
+479,Keyboard,Scotland,5,100,500,2025-09-05,122,Completed
+480,Keyboard,Wales,3,100,300,2025-10-05,133,Completed
+481,Laptop,Northern Ireland,2,1000,2000,2025-12-22,70,Completed
+482,Monitor,England,3,100,300,2025-04-08,113,Cancelled
+483,Phone,Wales,4,25,100,2025-01-25,107,Completed
+484,Keyboard,Wales,1,25,25,2025-10-11,112,Completed
+485,Laptop,Northern Ireland,5,1000,5000,2025-10-28,108,Completed
+486,Headphones,Wales,3,500,1500,2025-03-09,47,Completed
+487,Laptop,Wales,2,50,100,2025-01-07,196,Completed
+488,Headphones,Northern Ireland,3,250,750,2025-11-01,91,Returned
+489,Monitor,Scotland,2,250,500,2025-05-17,18,Completed
+490,Phone,Northern Ireland,3,1000,3000,2025-06-13,149,Completed
+491,Laptop,Scotland,2,25,50,2025-03-24,104,Completed
+492,Keyboard,England,4,250,1000,2025-05-18,151,Completed
+493,Monitor,Scotland,2,25,50,2025-03-14,192,Completed
+494,Laptop,Scotland,2,500,1000,2025-08-25,195,Completed
+495,Keyboard,England,1,50,50,2025-02-15,40,Completed
+496,Laptop,Scotland,2,500,1000,2025-04-16,138,Completed
+497,Headphones,Northern Ireland,1,1000,1000,2025-10-15,89,Completed
+498,Laptop,Scotland,5,100,500,2025-09-19,180,Completed
+499,Laptop,England,1,100,100,2025-06-25,200,Completed
+500,Laptop,Northern Ireland,4,100,400,2025-06-15,61,Cancelled
+501,Monitor,England,1,500,500,2025-05-25,192,Completed
+502,Laptop,England,5,250,1250,2025-11-26,5,Completed
+503,Keyboard,Wales,4,50,200,2025-10-10,122,Completed
+504,Headphones,Wales,3,100,300,2025-02-23,181,Completed
+505,Headphones,England,3,1000,3000,2025-06-27,55,Completed
+506,Laptop,England,1,1000,1000,2025-09-01,37,Completed
+507,Monitor,England,1,100,100,2025-12-07,56,Completed
+508,Monitor,Wales,5,100,500,2025-05-07,187,Completed
+509,Keyboard,Wales,5,50,250,2025-09-28,102,Completed
+510,Laptop,Scotland,2,100,200,2025-05-12,93,Completed
+511,Headphones,Scotland,5,50,250,2025-04-03,197,Cancelled
+512,Monitor,England,2,1000,2000,2025-03-14,73,Completed
+513,Laptop,Northern Ireland,4,100,400,2025-09-05,59,Completed
+514,Monitor,Northern Ireland,1,500,500,2025-12-14,2,Completed
+515,Monitor,Wales,4,500,2000,2025-09-30,193,Completed
+516,Headphones,Wales,5,1000,5000,2025-02-12,104,Completed
+517,Phone,Wales,4,50,200,2025-02-10,188,Completed
+518,Keyboard,England,4,500,2000,2025-06-19,51,Cancelled
+519,Keyboard,Northern Ireland,4,50,200,2025-07-31,30,Cancelled
+520,Headphones,Scotland,5,500,2500,2025-06-17,11,Completed
+521,Monitor,England,4,500,2000,2025-02-08,108,Completed
+522,Laptop,Scotland,2,50,100,2025-09-02,76,Cancelled
+523,Monitor,Scotland,5,250,1250,2025-05-31,167,Completed
+524,Headphones,England,4,500,2000,2025-04-21,90,Cancelled
+525,Keyboard,Scotland,5,100,500,2025-02-16,123,Completed
+526,Monitor,Northern Ireland,3,1000,3000,2025-03-04,200,Completed
+527,Keyboard,Scotland,2,250,500,2025-08-13,191,Completed
+528,Laptop,Northern Ireland,4,50,200,2025-03-10,192,Completed
+529,Keyboard,Northern Ireland,3,250,750,2025-10-26,189,Completed
+530,Keyboard,Northern Ireland,3,25,75,2025-10-17,125,Completed
+531,Phone,Wales,5,25,125,2025-10-23,182,Completed
+532,Phone,Scotland,3,500,1500,2025-07-22,122,Completed
+533,Phone,England,2,500,1000,2025-03-02,94,Completed
+534,Keyboard,England,2,100,200,2025-11-14,103,Completed
+535,Headphones,Scotland,1,1000,1000,2025-11-10,186,Completed
+536,Keyboard,Wales,2,250,500,2025-06-10,184,Completed
+537,Headphones,Wales,3,25,75,2025-11-27,162,Completed
+538,Headphones,Northern Ireland,2,500,1000,2025-01-16,31,Cancelled
+539,Phone,Scotland,5,1000,5000,2025-12-04,52,Cancelled
+540,Monitor,Scotland,1,250,250,2025-04-04,89,Completed
+541,Laptop,England,3,500,1500,2025-10-31,76,Completed
+542,Phone,Scotland,1,500,500,2025-05-18,129,Completed
+543,Phone,Wales,3,25,75,2025-12-04,183,Returned
+544,Monitor,Scotland,5,25,125,2025-02-07,22,Completed
+545,Laptop,England,1,500,500,2025-05-07,40,Completed
+546,Keyboard,Northern Ireland,4,50,200,2025-10-02,101,Completed
+547,Keyboard,England,3,500,1500,2025-06-13,111,Completed
+548,Phone,England,4,1000,4000,2025-11-15,129,Completed
+549,Laptop,Northern Ireland,1,500,500,2025-03-18,65,Completed
+550,Phone,England,4,100,400,2025-06-23,191,Cancelled
+551,Headphones,England,4,100,400,2025-12-24,182,Returned
+552,Phone,Scotland,1,100,100,2025-11-17,170,Completed
+553,Phone,Scotland,5,50,250,2025-04-01,149,Completed
+554,Keyboard,Northern Ireland,4,50,200,2025-08-26,79,Completed
+555,Keyboard,Scotland,4,500,2000,2025-09-21,22,Completed
+556,Keyboard,Scotland,5,100,500,2025-06-28,166,Completed
+557,Headphones,England,4,50,200,2025-07-28,99,Completed
+558,Keyboard,Wales,4,25,100,2025-03-14,8,Completed
+559,Laptop,Scotland,4,500,2000,2025-04-17,190,Completed
+560,Monitor,Wales,2,1000,2000,2025-12-11,175,Completed
+561,Laptop,Scotland,5,250,1250,2025-10-22,17,Completed
+562,Laptop,Scotland,4,500,2000,2025-10-11,17,Completed
+563,Keyboard,Northern Ireland,5,250,1250,2025-12-19,90,Returned
+564,Monitor,Northern Ireland,3,100,300,2025-07-01,141,Cancelled
+565,Monitor,Northern Ireland,3,250,750,2025-02-06,145,Cancelled
+566,Monitor,Wales,4,100,400,2025-05-17,166,Completed
+567,Headphones,England,5,25,125,2025-12-04,81,Completed
+568,Keyboard,Scotland,5,250,1250,2025-02-25,78,Completed
+569,Monitor,Scotland,5,500,2500,2025-07-06,173,Cancelled
+570,Headphones,Scotland,2,100,200,2025-12-07,6,Completed
+571,Phone,Wales,3,500,1500,2025-09-15,163,Completed
+572,Phone,Northern Ireland,5,50,250,2025-02-27,110,Completed
+573,Headphones,England,5,100,500,2025-12-29,14,Completed
+574,Headphones,Wales,2,250,500,2025-05-03,72,Completed
+575,Keyboard,Northern Ireland,2,100,200,2025-07-07,189,Completed
+576,Keyboard,Wales,5,500,2500,2025-08-18,143,Completed
+577,Phone,England,1,25,25,2025-06-17,54,Completed
+578,Monitor,Northern Ireland,5,100,500,2025-04-24,27,Cancelled
+579,Phone,Wales,5,250,1250,2025-09-09,13,Completed
+580,Monitor,England,2,50,100,2025-04-17,159,Completed
+581,Monitor,Scotland,2,1000,2000,2025-02-06,163,Completed
+582,Keyboard,England,5,25,125,2025-12-01,60,Cancelled
+583,Laptop,Scotland,5,50,250,2025-04-02,6,Completed
+584,Laptop,Wales,5,100,500,2025-01-18,197,Returned
+585,Headphones,Northern Ireland,2,500,1000,2025-12-20,58,Completed
+586,Keyboard,Northern Ireland,5,500,2500,2025-03-04,49,Returned
+587,Monitor,Wales,5,250,1250,2025-05-30,151,Cancelled
+588,Laptop,Northern Ireland,4,500,2000,2025-05-19,162,Completed
+589,Monitor,Northern Ireland,1,25,25,2025-07-05,26,Completed
+590,Laptop,Scotland,3,500,1500,2025-07-04,47,Completed
+591,Laptop,Wales,1,250,250,2025-07-24,5,Completed
+592,Laptop,England,4,1000,4000,2025-09-17,20,Completed
+593,Keyboard,Scotland,3,100,300,2025-08-02,134,Completed
+594,Phone,Wales,5,100,500,2025-09-13,198,Completed
+595,Monitor,Scotland,4,500,2000,2025-05-15,59,Completed
+596,Keyboard,England,5,50,250,2025-03-02,192,Completed
+597,Keyboard,England,2,100,200,2025-12-29,146,Completed
+598,Keyboard,Wales,4,1000,4000,2025-11-06,132,Completed
+599,Keyboard,England,2,500,1000,2025-03-29,17,Completed
+600,Keyboard,Scotland,4,250,1000,2025-11-20,14,Completed
+601,Headphones,England,4,1000,4000,2025-07-26,13,Completed
+602,Monitor,Scotland,2,500,1000,2025-05-09,135,Cancelled
+603,Keyboard,Scotland,3,1000,3000,2025-11-07,128,Completed
+604,Monitor,England,1,100,100,2025-01-03,44,Completed
+605,Headphones,Wales,5,250,1250,2025-08-30,119,Completed
+606,Headphones,Northern Ireland,4,500,2000,2025-05-01,143,Completed
+607,Monitor,England,5,25,125,2025-04-12,19,Cancelled
+608,Laptop,Scotland,2,250,500,2025-02-07,63,Cancelled
+609,Phone,Scotland,5,25,125,2025-12-07,163,Completed
+610,Laptop,England,2,1000,2000,2025-05-13,81,Completed
+611,Laptop,Wales,5,50,250,2025-07-21,163,Completed
+612,Laptop,Wales,1,250,250,2025-12-14,147,Completed
+613,Keyboard,Scotland,1,1000,1000,2025-01-21,148,Cancelled
+614,Headphones,Scotland,1,25,25,2025-08-30,100,Completed
+615,Laptop,Wales,1,100,100,2025-04-19,163,Completed
+616,Headphones,Northern Ireland,1,100,100,2025-10-30,160,Completed
+617,Monitor,England,1,50,50,2025-03-25,122,Completed
+618,Phone,Scotland,2,250,500,2025-03-24,176,Completed
+619,Monitor,Scotland,4,250,1000,2025-10-18,44,Completed
+620,Monitor,Wales,5,250,1250,2025-03-10,104,Completed
+621,Keyboard,England,1,1000,1000,2025-05-09,152,Completed
+622,Phone,Wales,2,50,100,2025-07-15,61,Completed
+623,Monitor,England,2,250,500,2025-05-20,125,Cancelled
+624,Monitor,England,2,1000,2000,2025-10-10,145,Completed
+625,Phone,England,4,100,400,2025-11-08,71,Completed
+626,Phone,Scotland,5,25,125,2025-08-22,107,Completed
+627,Monitor,Northern Ireland,4,1000,4000,2025-01-23,50,Completed
+628,Phone,Wales,3,100,300,2025-06-02,65,Completed
+629,Monitor,Northern Ireland,2,100,200,2025-10-04,99,Completed
+630,Monitor,Wales,3,25,75,2025-03-02,32,Completed
+631,Keyboard,England,1,100,100,2025-11-15,164,Cancelled
+632,Laptop,Scotland,1,50,50,2025-02-21,141,Completed
+633,Monitor,Northern Ireland,4,25,100,2025-12-10,198,Completed
+634,Headphones,Scotland,5,100,500,2025-06-02,58,Completed
+635,Laptop,Wales,3,500,1500,2025-08-25,128,Completed
+636,Laptop,Scotland,5,1000,5000,2025-11-07,142,Completed
+637,Laptop,Scotland,4,100,400,2025-10-29,165,Completed
+638,Keyboard,Northern Ireland,1,50,50,2025-02-01,112,Completed
+639,Monitor,England,5,250,1250,2025-02-24,68,Completed
+640,Keyboard,Scotland,5,100,500,2025-12-18,40,Completed
+641,Monitor,England,1,250,250,2025-02-05,187,Completed
+642,Keyboard,Wales,3,500,1500,2025-04-20,144,Cancelled
+643,Keyboard,Scotland,1,100,100,2025-06-26,190,Completed
+644,Headphones,Northern Ireland,5,25,125,2025-12-28,132,Completed
+645,Keyboard,Wales,3,250,750,2025-11-10,173,Completed
+646,Phone,Wales,3,500,1500,2025-10-22,90,Completed
+647,Headphones,Northern Ireland,1,25,25,2025-12-02,28,Completed
+648,Keyboard,Scotland,5,25,125,2025-04-07,96,Completed
+649,Laptop,Scotland,4,25,100,2025-08-01,194,Completed
+650,Phone,Wales,5,25,125,2025-11-13,31,Completed
+651,Phone,Scotland,2,100,200,2025-05-17,3,Completed
+652,Phone,England,4,1000,4000,2025-01-06,136,Completed
+653,Headphones,Northern Ireland,3,100,300,2025-04-19,24,Cancelled
+654,Keyboard,England,4,100,400,2025-02-04,15,Completed
+655,Keyboard,Scotland,3,500,1500,2025-02-08,171,Completed
+656,Laptop,Wales,3,500,1500,2025-05-30,159,Completed
+657,Laptop,Northern Ireland,4,1000,4000,2025-04-28,45,Completed
+658,Phone,Scotland,3,500,1500,2025-09-18,194,Completed
+659,Laptop,Scotland,3,50,150,2025-03-28,8,Completed
+660,Headphones,Wales,2,1000,2000,2025-03-17,71,Completed
+661,Keyboard,Wales,5,500,2500,2025-11-09,108,Completed
+662,Phone,England,5,1000,5000,2025-08-02,115,Completed
+663,Laptop,Northern Ireland,2,100,200,2025-10-12,103,Completed
+664,Headphones,Northern Ireland,4,100,400,2025-08-27,125,Cancelled
+665,Headphones,Wales,1,1000,1000,2025-06-14,57,Completed
+666,Laptop,England,1,50,50,2025-03-28,30,Cancelled
+667,Keyboard,Northern Ireland,1,50,50,2025-05-21,146,Completed
+668,Laptop,Wales,2,1000,2000,2025-06-09,114,Completed
+669,Phone,Scotland,2,500,1000,2025-02-15,197,Cancelled
+670,Laptop,Northern Ireland,3,250,750,2025-04-22,117,Completed
+671,Headphones,England,1,50,50,2025-02-14,167,Returned
+672,Laptop,England,4,25,100,2025-09-04,60,Completed
+673,Keyboard,England,4,100,400,2025-04-14,98,Completed
+674,Monitor,Scotland,1,1000,1000,2025-03-26,171,Cancelled
+675,Laptop,Northern Ireland,1,25,25,2025-05-14,126,Completed
+676,Keyboard,Northern Ireland,1,1000,1000,2025-04-18,173,Returned
+677,Keyboard,Scotland,2,100,200,2025-01-18,151,Returned
+678,Headphones,Northern Ireland,2,100,200,2025-04-04,197,Completed
+679,Keyboard,Scotland,2,50,100,2025-05-30,94,Completed
+680,Keyboard,Scotland,5,50,250,2025-09-03,134,Completed
+681,Keyboard,Scotland,4,25,100,2025-10-16,184,Completed
+682,Keyboard,England,4,1000,4000,2025-07-28,122,Completed
+683,Phone,Northern Ireland,3,100,300,2025-05-06,108,Completed
+684,Phone,Scotland,2,25,50,2025-08-23,4,Completed
+685,Headphones,Northern Ireland,5,250,1250,2025-05-02,93,Completed
+686,Laptop,England,5,25,125,2025-05-18,151,Returned
+687,Keyboard,Scotland,4,500,2000,2025-04-25,6,Completed
+688,Laptop,Wales,2,25,50,2025-06-11,32,Completed
+689,Laptop,England,3,500,1500,2025-07-20,106,Completed
+690,Headphones,Wales,2,500,1000,2025-08-22,146,Completed
+691,Keyboard,Northern Ireland,1,500,500,2025-01-28,15,Completed
+692,Keyboard,Northern Ireland,2,250,500,2025-01-11,168,Completed
+693,Monitor,England,1,25,25,2025-07-25,122,Returned
+694,Laptop,Northern Ireland,1,25,25,2025-06-16,96,Completed
+695,Laptop,Wales,3,250,750,2025-09-04,6,Completed
+696,Phone,Scotland,4,100,400,2025-02-16,112,Completed
+697,Monitor,Scotland,2,50,100,2025-09-03,120,Cancelled
+698,Phone,Scotland,1,25,25,2025-05-07,123,Completed
+699,Phone,England,2,50,100,2025-05-27,191,Completed
+700,Phone,Northern Ireland,4,1000,4000,2025-04-28,67,Completed
+701,Headphones,Wales,4,1000,4000,2025-06-01,106,Completed
+702,Headphones,Northern Ireland,5,250,1250,2025-03-13,139,Completed
+703,Phone,Northern Ireland,4,1000,4000,2025-12-29,43,Completed
+704,Monitor,Northern Ireland,3,1000,3000,2025-05-17,145,Cancelled
+705,Laptop,Scotland,1,100,100,2025-06-24,96,Completed
+706,Monitor,Wales,5,100,500,2025-10-16,132,Completed
+707,Keyboard,Wales,3,100,300,2025-01-19,191,Completed
+708,Headphones,Northern Ireland,2,1000,2000,2025-07-14,196,Completed
+709,Laptop,Scotland,1,250,250,2025-11-26,81,Completed
+710,Laptop,Scotland,4,500,2000,2025-06-24,41,Completed
+711,Keyboard,Wales,1,500,500,2025-12-20,133,Completed
+712,Keyboard,Scotland,2,50,100,2025-05-21,160,Completed
+713,Phone,Scotland,5,500,2500,2025-09-03,198,Completed
+714,Headphones,Scotland,5,500,2500,2025-04-03,35,Completed
+715,Headphones,England,5,100,500,2025-08-27,22,Completed
+716,Monitor,Northern Ireland,4,100,400,2025-07-24,193,Completed
+717,Phone,Wales,3,1000,3000,2025-02-17,150,Completed
+718,Phone,Wales,3,50,150,2025-09-02,112,Returned
+719,Phone,England,1,25,25,2025-11-16,11,Completed
+720,Phone,Northern Ireland,4,50,200,2025-11-13,3,Completed
+721,Headphones,Wales,5,50,250,2025-10-22,137,Cancelled
+722,Headphones,Scotland,5,250,1250,2025-05-08,60,Returned
+723,Phone,Wales,2,1000,2000,2025-12-10,76,Completed
+724,Monitor,Scotland,2,250,500,2025-10-09,87,Completed
+725,Laptop,England,5,50,250,2025-01-17,14,Completed
+726,Laptop,Scotland,5,50,250,2025-03-12,18,Completed
+727,Monitor,Wales,4,50,200,2025-09-26,113,Completed
+728,Phone,Wales,3,500,1500,2025-11-21,73,Completed
+729,Headphones,Wales,2,250,500,2025-10-09,23,Completed
+730,Laptop,England,3,50,150,2025-11-01,83,Completed
+731,Keyboard,England,4,100,400,2025-01-07,125,Completed
+732,Keyboard,Northern Ireland,5,1000,5000,2025-11-10,175,Completed
+733,Monitor,Wales,3,1000,3000,2025-11-01,69,Completed
+734,Phone,Scotland,5,100,500,2025-04-13,47,Completed
+735,Laptop,England,5,1000,5000,2025-11-05,116,Completed
+736,Phone,Wales,1,500,500,2025-07-12,30,Completed
+737,Laptop,Wales,3,500,1500,2025-08-29,25,Completed
+738,Monitor,England,3,25,75,2025-03-03,156,Returned
+739,Monitor,Northern Ireland,5,25,125,2025-01-17,112,Completed
+740,Keyboard,England,4,25,100,2025-06-20,25,Completed
+741,Phone,England,1,1000,1000,2025-01-25,74,Returned
+742,Keyboard,Scotland,5,500,2500,2025-09-08,58,Completed
+743,Phone,Scotland,2,500,1000,2025-09-10,94,Completed
+744,Keyboard,Northern Ireland,2,500,1000,2025-07-26,119,Cancelled
+745,Headphones,Wales,1,100,100,2025-01-29,127,Completed
+746,Headphones,England,4,500,2000,2025-04-27,169,Completed
+747,Headphones,Northern Ireland,5,100,500,2025-10-09,25,Completed
+748,Headphones,Scotland,3,25,75,2025-05-24,78,Completed
+749,Laptop,England,1,25,25,2025-01-25,99,Completed
+750,Headphones,Wales,4,1000,4000,2025-11-06,116,Completed
+751,Monitor,Scotland,3,25,75,2025-06-05,48,Completed
+752,Monitor,Scotland,2,1000,2000,2025-03-14,10,Completed
+753,Laptop,Scotland,2,50,100,2025-04-30,99,Completed
+754,Headphones,Northern Ireland,3,50,150,2025-11-08,11,Completed
+755,Headphones,Wales,1,250,250,2025-11-17,85,Completed
+756,Headphones,England,2,1000,2000,2025-04-03,149,Completed
+757,Keyboard,Northern Ireland,5,250,1250,2025-03-27,173,Completed
+758,Phone,Northern Ireland,3,250,750,2025-12-02,135,Completed
+759,Keyboard,Northern Ireland,3,50,150,2025-12-30,192,Completed
+760,Phone,Scotland,2,1000,2000,2025-04-28,126,Completed
+761,Headphones,Wales,1,50,50,2025-08-21,64,Cancelled
+762,Headphones,Northern Ireland,5,250,1250,2025-07-18,2,Completed
+763,Keyboard,England,1,1000,1000,2025-07-25,76,Completed
+764,Keyboard,Wales,4,250,1000,2025-12-05,121,Completed
+765,Phone,England,4,500,2000,2025-05-27,42,Cancelled
+766,Monitor,Wales,2,1000,2000,2025-09-28,54,Completed
+767,Phone,England,2,1000,2000,2025-05-19,75,Completed
+768,Keyboard,Scotland,2,250,500,2025-06-30,16,Completed
+769,Keyboard,Northern Ireland,4,500,2000,2025-01-30,18,Completed
+770,Laptop,England,1,100,100,2025-02-26,187,Completed
+771,Keyboard,Wales,1,50,50,2025-08-20,90,Completed
+772,Laptop,Northern Ireland,2,250,500,2025-05-26,144,Returned
+773,Monitor,Northern Ireland,5,1000,5000,2025-02-17,6,Completed
+774,Phone,Wales,1,50,50,2025-07-13,185,Completed
+775,Phone,England,4,50,200,2025-08-12,108,Cancelled
+776,Laptop,Scotland,3,50,150,2025-05-16,175,Completed
+777,Phone,Scotland,3,100,300,2025-01-22,48,Completed
+778,Keyboard,England,3,25,75,2025-01-06,42,Completed
+779,Headphones,Northern Ireland,5,250,1250,2025-07-23,76,Completed
+780,Laptop,Northern Ireland,2,25,50,2025-08-27,188,Completed
+781,Phone,Northern Ireland,4,25,100,2025-07-04,77,Completed
+782,Laptop,Northern Ireland,5,25,125,2025-12-26,132,Completed
+783,Laptop,England,4,50,200,2025-10-19,130,Completed
+784,Headphones,Northern Ireland,4,500,2000,2025-12-01,59,Completed
+785,Keyboard,Wales,2,50,100,2025-08-08,155,Completed
+786,Laptop,Northern Ireland,3,50,150,2025-04-26,27,Completed
+787,Phone,Scotland,2,1000,2000,2025-11-09,79,Completed
+788,Monitor,Northern Ireland,5,1000,5000,2025-02-18,72,Completed
+789,Laptop,England,5,25,125,2025-06-22,7,Completed
+790,Laptop,Scotland,5,50,250,2025-03-23,191,Cancelled
+791,Headphones,England,2,25,50,2025-11-18,111,Completed
+792,Keyboard,England,4,1000,4000,2025-11-29,119,Completed
+793,Monitor,Scotland,4,500,2000,2025-02-14,174,Completed
+794,Phone,England,1,250,250,2025-12-01,63,Completed
+795,Monitor,England,5,25,125,2025-01-20,124,Completed
+796,Phone,Northern Ireland,4,500,2000,2025-08-09,12,Completed
+797,Keyboard,Wales,1,250,250,2025-05-03,141,Completed
+798,Phone,England,4,100,400,2025-08-22,43,Completed
+799,Headphones,England,5,25,125,2025-08-09,17,Completed
+800,Headphones,England,3,25,75,2025-11-19,63,Completed
+801,Headphones,Northern Ireland,5,100,500,2025-12-05,120,Completed
+802,Headphones,Wales,2,100,200,2025-01-03,36,Completed
+803,Monitor,Scotland,4,25,100,2025-07-01,8,Completed
+804,Keyboard,Northern Ireland,4,100,400,2025-07-25,69,Completed
+805,Phone,Northern Ireland,2,50,100,2025-11-16,90,Completed
+806,Phone,Wales,2,250,500,2025-02-09,36,Completed
+807,Headphones,Wales,3,250,750,2025-02-28,28,Completed
+808,Headphones,Northern Ireland,4,250,1000,2025-03-03,118,Completed
+809,Laptop,Scotland,4,50,200,2025-05-12,93,Completed
+810,Keyboard,Northern Ireland,3,100,300,2025-03-01,175,Completed
+811,Monitor,Wales,1,500,500,2025-11-27,76,Completed
+812,Phone,Scotland,3,100,300,2025-05-02,101,Cancelled
+813,Laptop,Wales,5,25,125,2025-04-17,158,Completed
+814,Laptop,Scotland,4,1000,4000,2025-04-06,151,Completed
+815,Phone,England,2,250,500,2025-12-13,144,Completed
+816,Monitor,Wales,5,100,500,2025-08-23,14,Completed
+817,Laptop,Wales,4,500,2000,2025-03-03,71,Cancelled
+818,Laptop,Northern Ireland,3,25,75,2025-09-13,180,Completed
+819,Keyboard,Wales,5,50,250,2025-02-18,124,Completed
+820,Monitor,Wales,4,50,200,2025-12-14,125,Completed
+821,Laptop,England,1,500,500,2025-06-08,37,Completed
+822,Monitor,Wales,1,25,25,2025-05-04,29,Completed
+823,Phone,England,2,250,500,2025-11-13,195,Completed
+824,Headphones,England,4,100,400,2025-07-26,143,Completed
+825,Laptop,England,1,25,25,2025-02-17,175,Completed
+826,Keyboard,England,3,50,150,2025-05-16,174,Completed
+827,Phone,Scotland,4,500,2000,2025-07-20,180,Cancelled
+828,Monitor,Northern Ireland,3,500,1500,2025-09-07,19,Completed
+829,Phone,Scotland,3,100,300,2025-11-10,106,Completed
+830,Laptop,Wales,1,500,500,2025-12-23,21,Completed
+831,Monitor,Scotland,4,500,2000,2025-11-14,64,Completed
+832,Headphones,Scotland,5,25,125,2025-10-22,165,Completed
+833,Phone,Wales,1,250,250,2025-11-10,27,Completed
+834,Laptop,Wales,1,100,100,2025-07-28,55,Completed
+835,Keyboard,Wales,4,25,100,2025-12-21,29,Cancelled
+836,Monitor,Scotland,4,250,1000,2025-07-30,148,Completed
+837,Phone,Scotland,3,25,75,2025-07-11,25,Completed
+838,Phone,Wales,4,1000,4000,2025-02-13,70,Completed
+839,Headphones,Northern Ireland,3,25,75,2025-01-29,63,Completed
+840,Headphones,Northern Ireland,1,500,500,2025-02-28,164,Completed
+841,Keyboard,England,2,250,500,2025-03-12,130,Completed
+842,Keyboard,Wales,5,100,500,2025-04-02,150,Completed
+843,Laptop,England,1,100,100,2025-09-22,16,Returned
+844,Laptop,Northern Ireland,4,250,1000,2025-08-08,146,Completed
+845,Keyboard,England,5,500,2500,2025-08-03,197,Completed
+846,Keyboard,Wales,2,50,100,2025-10-04,182,Completed
+847,Monitor,Wales,2,25,50,2025-03-05,100,Completed
+848,Headphones,Wales,3,500,1500,2025-12-12,30,Completed
+849,Laptop,Scotland,5,1000,5000,2025-10-19,45,Completed
+850,Headphones,England,3,250,750,2025-09-02,19,Completed
+851,Headphones,Northern Ireland,1,25,25,2025-03-03,34,Completed
+852,Keyboard,Northern Ireland,5,100,500,2025-11-28,141,Completed
+853,Monitor,Northern Ireland,1,50,50,2025-06-19,171,Completed
+854,Phone,Scotland,3,1000,3000,2025-09-26,62,Completed
+855,Monitor,Scotland,5,100,500,2025-09-24,118,Completed
+856,Monitor,Wales,3,250,750,2025-02-23,100,Completed
+857,Headphones,Northern Ireland,5,25,125,2025-01-16,22,Completed
+858,Monitor,Scotland,3,250,750,2025-01-08,180,Completed
+859,Laptop,Wales,2,25,50,2025-04-14,180,Completed
+860,Headphones,Northern Ireland,3,500,1500,2025-02-28,111,Completed
+861,Laptop,England,2,50,100,2025-11-09,164,Completed
+862,Phone,Wales,3,500,1500,2025-02-09,73,Completed
+863,Headphones,Scotland,5,500,2500,2025-08-25,147,Completed
+864,Phone,Scotland,5,250,1250,2025-04-04,38,Completed
+865,Headphones,Wales,5,50,250,2025-08-10,70,Completed
+866,Keyboard,Wales,4,25,100,2025-07-23,116,Completed
+867,Monitor,Scotland,1,25,25,2025-05-18,79,Completed
+868,Keyboard,England,5,1000,5000,2025-10-27,185,Completed
+869,Phone,Northern Ireland,2,100,200,2025-07-26,148,Completed
+870,Monitor,England,5,1000,5000,2025-12-02,9,Completed
+871,Headphones,Wales,4,1000,4000,2025-03-22,32,Returned
+872,Monitor,England,2,25,50,2025-08-06,132,Completed
+873,Laptop,Scotland,4,250,1000,2025-01-02,50,Completed
+874,Monitor,Wales,2,500,1000,2025-06-27,82,Completed
+875,Laptop,Northern Ireland,3,500,1500,2025-12-12,5,Completed
+876,Monitor,Scotland,1,500,500,2025-10-06,148,Completed
+877,Laptop,Scotland,1,50,50,2025-05-26,87,Completed
+878,Phone,Northern Ireland,4,25,100,2025-11-14,126,Completed
+879,Keyboard,Northern Ireland,1,250,250,2025-08-12,75,Completed
+880,Headphones,England,4,50,200,2025-03-03,165,Completed
+881,Monitor,Wales,4,100,400,2025-10-21,22,Completed
+882,Keyboard,Northern Ireland,4,250,1000,2025-08-27,186,Completed
+883,Headphones,Northern Ireland,1,1000,1000,2025-07-14,68,Completed
+884,Headphones,Wales,4,250,1000,2025-06-15,44,Completed
+885,Laptop,Northern Ireland,1,250,250,2025-08-10,34,Cancelled
+886,Phone,Northern Ireland,4,500,2000,2025-03-02,77,Cancelled
+887,Phone,England,5,250,1250,2025-05-09,42,Completed
+888,Keyboard,Scotland,4,1000,4000,2025-06-22,137,Completed
+889,Phone,Scotland,2,1000,2000,2025-06-05,106,Cancelled
+890,Monitor,Scotland,4,25,100,2025-04-20,95,Completed
+891,Phone,Scotland,3,250,750,2025-09-26,135,Completed
+892,Keyboard,Northern Ireland,4,500,2000,2025-12-22,68,Cancelled
+893,Phone,Wales,2,250,500,2025-10-05,147,Completed
+894,Monitor,Wales,2,100,200,2025-03-15,159,Completed
+895,Laptop,England,1,100,100,2025-07-26,128,Completed
+896,Keyboard,England,5,500,2500,2025-10-06,163,Completed
+897,Laptop,Northern Ireland,4,25,100,2025-11-22,185,Completed
+898,Laptop,Wales,1,25,25,2025-12-06,85,Completed
+899,Laptop,Wales,5,1000,5000,2025-12-23,189,Completed
+900,Headphones,Scotland,4,1000,4000,2025-12-06,159,Completed
+901,Headphones,Northern Ireland,3,50,150,2025-07-23,83,Completed
+902,Laptop,Northern Ireland,4,500,2000,2025-06-10,95,Completed
+903,Keyboard,Scotland,2,250,500,2025-01-28,181,Completed
+904,Monitor,Northern Ireland,2,500,1000,2025-09-14,32,Cancelled
+905,Monitor,Northern Ireland,3,50,150,2025-06-14,66,Completed
+906,Phone,England,1,1000,1000,2025-03-04,187,Completed
+907,Keyboard,Wales,5,500,2500,2025-01-22,116,Completed
+908,Headphones,Northern Ireland,4,500,2000,2025-03-11,138,Completed
+909,Laptop,England,2,1000,2000,2025-04-06,130,Completed
+910,Phone,Wales,1,50,50,2025-06-12,194,Completed
+911,Monitor,Scotland,3,1000,3000,2025-03-20,60,Completed
+912,Headphones,England,2,25,50,2025-01-05,17,Completed
+913,Headphones,England,3,250,750,2025-11-12,96,Completed
+914,Laptop,Wales,4,1000,4000,2025-04-30,144,Completed
+915,Monitor,Scotland,5,50,250,2025-10-29,16,Completed
+916,Keyboard,England,2,100,200,2025-06-27,46,Completed
+917,Headphones,Northern Ireland,2,25,50,2025-06-25,167,Completed
+918,Laptop,Northern Ireland,4,100,400,2025-08-05,159,Completed
+919,Keyboard,Northern Ireland,1,1000,1000,2025-02-25,107,Cancelled
+920,Monitor,Scotland,5,25,125,2025-07-06,88,Completed
+921,Headphones,England,2,250,500,2025-08-20,129,Completed
+922,Keyboard,Northern Ireland,5,1000,5000,2025-09-12,139,Completed
+923,Keyboard,Scotland,2,250,500,2025-04-14,119,Completed
+924,Keyboard,Northern Ireland,5,500,2500,2025-03-18,85,Completed
+925,Headphones,Wales,3,100,300,2025-08-18,4,Completed
+926,Headphones,England,2,25,50,2025-09-15,71,Completed
+927,Phone,England,5,250,1250,2025-09-21,154,Completed
+928,Monitor,Scotland,1,50,50,2025-11-27,111,Completed
+929,Laptop,Scotland,3,250,750,2025-07-01,50,Completed
+930,Keyboard,England,3,50,150,2025-09-13,140,Completed
+931,Phone,Northern Ireland,1,1000,1000,2025-02-07,95,Completed
+932,Laptop,Northern Ireland,5,25,125,2025-06-25,92,Completed
+933,Phone,Wales,4,250,1000,2025-01-27,65,Completed
+934,Headphones,Northern Ireland,1,250,250,2025-10-03,47,Completed
+935,Keyboard,Scotland,5,25,125,2025-05-20,181,Completed
+936,Laptop,Scotland,1,250,250,2025-10-26,106,Cancelled
+937,Laptop,Northern Ireland,1,50,50,2025-10-14,199,Completed
+938,Laptop,Scotland,2,250,500,2025-04-01,130,Completed
+939,Laptop,England,5,100,500,2025-03-02,106,Completed
+940,Laptop,England,4,1000,4000,2025-12-31,24,Completed
+941,Phone,Northern Ireland,2,500,1000,2025-12-13,4,Completed
+942,Keyboard,England,1,50,50,2025-06-12,108,Completed
+943,Headphones,England,1,100,100,2025-12-17,19,Completed
+944,Headphones,Wales,1,1000,1000,2025-05-23,154,Completed
+945,Headphones,Wales,5,25,125,2025-09-10,40,Completed
+946,Headphones,England,5,50,250,2025-09-26,50,Completed
+947,Phone,Northern Ireland,2,500,1000,2025-10-18,171,Completed
+948,Monitor,Wales,4,1000,4000,2025-07-06,75,Completed
+949,Keyboard,Scotland,2,500,1000,2025-10-31,195,Completed
+950,Laptop,Scotland,3,25,75,2025-10-18,12,Completed
+951,Monitor,Scotland,1,25,25,2025-03-27,195,Completed
+952,Headphones,Northern Ireland,1,50,50,2025-06-15,27,Completed
+953,Monitor,England,1,250,250,2025-04-24,113,Completed
+954,Keyboard,Scotland,2,25,50,2025-12-22,182,Completed
+955,Laptop,Northern Ireland,2,1000,2000,2025-07-02,194,Cancelled
+956,Laptop,Wales,1,250,250,2025-07-26,49,Completed
+957,Keyboard,England,2,100,200,2025-09-13,144,Completed
+958,Keyboard,Wales,5,500,2500,2025-08-23,130,Completed
+959,Headphones,Northern Ireland,5,250,1250,2025-12-21,60,Completed
+960,Laptop,Scotland,2,500,1000,2025-01-03,182,Cancelled
+961,Monitor,Scotland,1,250,250,2025-07-27,30,Completed
+962,Phone,Northern Ireland,2,100,200,2025-07-16,84,Completed
+963,Phone,Scotland,2,25,50,2025-12-07,166,Completed
+964,Keyboard,England,2,100,200,2025-05-05,28,Completed
+965,Headphones,Northern Ireland,3,25,75,2025-05-18,25,Cancelled
+966,Phone,Wales,5,25,125,2025-12-05,96,Completed
+967,Laptop,Northern Ireland,4,500,2000,2025-01-25,125,Cancelled
+968,Keyboard,England,4,1000,4000,2025-03-09,10,Completed
+969,Monitor,England,3,100,300,2025-03-02,188,Completed
+970,Keyboard,Northern Ireland,2,250,500,2025-01-29,42,Completed
+971,Monitor,Northern Ireland,3,100,300,2025-01-19,40,Completed
+972,Keyboard,Scotland,3,500,1500,2025-06-20,77,Completed
+973,Keyboard,England,1,25,25,2025-03-15,105,Completed
+974,Keyboard,Northern Ireland,5,500,2500,2025-03-02,118,Completed
+975,Monitor,Northern Ireland,4,50,200,2025-06-02,42,Completed
+976,Monitor,England,2,50,100,2025-10-03,47,Completed
+977,Keyboard,Northern Ireland,4,250,1000,2025-02-17,165,Completed
+978,Phone,Scotland,4,500,2000,2025-07-30,22,Completed
+979,Headphones,England,5,250,1250,2025-12-09,185,Completed
+980,Headphones,Scotland,4,250,1000,2025-05-19,107,Completed
+981,Headphones,Scotland,4,50,200,2025-04-20,27,Completed
+982,Monitor,Scotland,3,250,750,2025-07-02,41,Completed
+983,Monitor,Scotland,5,50,250,2025-01-28,80,Completed
+984,Phone,England,1,25,25,2025-07-16,162,Completed
+985,Headphones,Scotland,2,500,1000,2025-07-10,160,Completed
+986,Headphones,Scotland,4,250,1000,2025-11-11,89,Completed
+987,Keyboard,Northern Ireland,2,50,100,2025-02-20,66,Returned
+988,Monitor,England,1,100,100,2025-05-29,12,Completed
+989,Headphones,England,2,250,500,2025-09-25,168,Completed
+990,Phone,Wales,1,1000,1000,2025-02-19,73,Completed
+991,Phone,England,3,25,75,2025-09-03,76,Completed
+992,Headphones,England,4,25,100,2025-04-23,90,Completed
+993,Monitor,Wales,1,100,100,2025-06-19,10,Completed
+994,Phone,England,2,50,100,2025-06-15,96,Completed
+995,Keyboard,England,4,250,1000,2025-01-14,176,Cancelled
+996,Phone,England,3,50,150,2025-07-22,20,Completed
+997,Laptop,England,4,25,100,2025-10-15,39,Completed
+998,Laptop,Wales,1,50,50,2025-07-08,60,Completed
+999,Monitor,England,3,25,75,2025-06-04,66,Completed
+1000,Headphones,England,2,50,100,2025-02-24,65,Cancelled
